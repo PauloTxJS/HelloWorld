@@ -12,7 +12,7 @@ let Curriculum = {
         Email_2: 'contato@paulotx.com.br',
         Site: 'www.paulotx.com.br',
         GitLab: 'https://gitlab.com/paulotxjs',
-        GitHub: 'PauloTxJS (https://github.com/PauloTxJS)',
+        GitHub: 'https://github.com/PauloTxJS',
         Linkedin: 'Paulo Teixeira (www.linkedin.com/in/paulo-teixeira-developer/)'
 
     },
